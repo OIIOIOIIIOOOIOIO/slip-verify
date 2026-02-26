@@ -22,7 +22,6 @@
 ### ติดต่อสอบถามได้ที่:
 - 🌐 [เว็บไซต์หลัก OIIO Service](https://oiio.download)
 - 💬 **Discord:** [เข้าร่วมชุมชนของเรา](https://discord.gg/7YN5qh9sTB)
-- 🗨️ **Line:** [Line Open Chat](https://line.me/ti/g2/N5WtxbjBOyo1zgaq4JoxqGjd3DNEqH1FTG_0jg?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
 - 📊 สำหรับการใช้งานจำนวนมาก ติดต่อโดยตรงผ่าน Discord ของเรา
 
 ---
